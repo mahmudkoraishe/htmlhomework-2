@@ -1,0 +1,41 @@
+.head1{
+    color: #771B08;
+	background-color: #E7E2E1;
+	border: 3px solid black;
+	border-radius: 10px;
+	padding: 50px;
+	font-size: 20px;
+	text-shadow: 2px 0 black;
+}
+
+h6{
+	font-size: 20px;
+	text-decoration-line: underline;
+}
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+}
+video{
+	width: 50%;
+}
+button{
+	background-color: #160877;
+	color: #FAF812;
+	cursor: pointer;
+}
+div{
+	width: 400px;
+	height: 200px;
+	background-color: pink;
+	color: black;
+	border: 2px solid deeppink;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
